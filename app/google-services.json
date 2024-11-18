@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682925738890",
+    "project_id": "socialsprink",
+    "storage_bucket": "socialsprink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682925738890:android:73abd0b4a38ba9d940d673",
+        "android_client_info": {
+          "package_name": "com.imobile.socialsprink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682925738890-sp9p7epuo19o2albgq9o09cjbcf9vg3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdFcMqsDMgEj5TqT1bQ6ojKqwqCjYpocA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682925738890-sp9p7epuo19o2albgq9o09cjbcf9vg3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
